@@ -1,3 +1,11 @@
+# React PDF Example
+
+This shows a small example of loading a PDF into a webpage using `react-pdf`.
+
+
+## Building
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
